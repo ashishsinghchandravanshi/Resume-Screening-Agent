@@ -68,7 +68,7 @@
 
 \## Scoring formula
 
-
+```
 
 final\_score = 100 x ( 0.45 x text\_similarity
 
@@ -77,6 +77,8 @@ final\_score = 100 x ( 0.45 x text\_similarity
 \+ 0.15 x experience\_score
 
 \+ 0.05 x education\_score )
+
+```
 
 
 
