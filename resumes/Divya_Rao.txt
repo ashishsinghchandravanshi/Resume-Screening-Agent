@@ -1,0 +1,22 @@
+Divya Rao
+Bengaluru, India | divya.rao@email.com | +91-99001-22334
+
+SUMMARY
+Backend engineer with 5 years of experience building Python microservices,
+strong AWS and Kubernetes background, CI/CD advocate.
+
+EXPERIENCE
+Software Engineer II, Meridian Tech (2020 - Present), 5 years
+- Built and maintained RESTful APIs using Django REST Framework
+- Deployed microservices on AWS using Docker and Kubernetes (EKS)
+- Managed CI/CD pipelines with GitHub Actions and Jenkins
+- Worked with PostgreSQL and Redis
+- Participated in on-call rotation and incident response
+- Collaborated in Agile/Scrum teams
+
+EDUCATION
+Bachelor of Engineering in Computer Science, RV College of Engineering, 2020
+
+SKILLS
+Python, Django, Django REST Framework, AWS, Docker, Kubernetes, PostgreSQL,
+Redis, CI/CD, Jenkins, GitHub Actions, Git, Agile, System Design

@@ -1,0 +1,19 @@
+Karan Mehta
+Delhi, India | karan.mehta@email.com | +91-91234-56789
+
+SUMMARY
+Frontend-focused developer with 4 years of experience in React and JavaScript.
+Limited backend exposure.
+
+EXPERIENCE
+Frontend Developer, WebCraft Studio (2020 - Present), 4 years
+- Built responsive UIs using React and Redux
+- Consumed REST APIs built by backend team
+- Basic Node.js scripting for build tools
+- Used Git for version control
+
+EDUCATION
+Bachelor of Computer Applications, Delhi University, 2020
+
+SKILLS
+JavaScript, React, Redux, HTML, CSS, Node.js, Git, Figma

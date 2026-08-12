@@ -1,0 +1,19 @@
+Vikram Singh
+Gurgaon, India | vikram.singh@email.com | +91-95678-90123
+
+SUMMARY
+Junior developer with 1.5 years experience, eager to grow in backend
+development. Familiar with Python basics.
+
+EXPERIENCE
+Junior Developer, StartUp Labs (2024 - Present), 1.5 years
+- Wrote small Python scripts for internal automation
+- Assisted senior developers with bug fixes in a Flask application
+- Learning Docker and AWS basics
+- Used Git for version control
+
+EDUCATION
+Bachelor of Technology in Information Technology, Jaipur University, 2024
+
+SKILLS
+Python, Flask, Git, Basic SQL, Docker (learning), AWS (learning)

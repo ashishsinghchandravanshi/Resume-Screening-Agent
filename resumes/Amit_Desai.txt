@@ -1,0 +1,18 @@
+Amit Desai
+Mumbai, India | amit.desai@email.com | +91-93456-78901
+
+SUMMARY
+Data analyst with 5 years experience in SQL and reporting. Some Python scripting.
+
+EXPERIENCE
+Data Analyst, RetailMetrics Inc (2019 - Present), 5 years
+- Wrote complex SQL queries for reporting on PostgreSQL
+- Automated reports using Python scripts (pandas)
+- Built dashboards using Tableau
+- Basic Git usage for script versioning
+
+EDUCATION
+Bachelor of Science in Statistics, Mumbai University, 2019
+
+SKILLS
+SQL, Python, Pandas, Tableau, Excel, Git, PostgreSQL

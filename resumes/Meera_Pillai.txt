@@ -1,0 +1,19 @@
+Meera Pillai
+Kochi, India | meera.pillai@email.com | +91-90123-45566
+
+SUMMARY
+QA engineer with 4 years experience in manual and automated testing,
+some Python scripting for test automation.
+
+EXPERIENCE
+QA Automation Engineer, TestPro Systems (2020 - Present), 4 years
+- Wrote automated test scripts in Python using PyTest
+- Used Selenium for UI testing
+- Basic exposure to Docker for test environments
+- Used Git for version control
+
+EDUCATION
+Bachelor of Science in Computer Science, Cochin University, 2020
+
+SKILLS
+Python, PyTest, Selenium, Git, Docker (basic), SQL

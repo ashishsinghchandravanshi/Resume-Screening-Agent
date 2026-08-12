@@ -1,0 +1,18 @@
+Rohit Verma
+Pune, India | rohit.verma@email.com | +91-90000-11122
+
+SUMMARY
+Backend developer with 3 years experience in Python web development.
+
+EXPERIENCE
+Software Engineer, PixelWorks Pvt Ltd (2021 - Present), 3 years
+- Developed REST APIs using Flask
+- Worked with MySQL database
+- Used Git for source control
+- Basic exposure to Docker for local development
+
+EDUCATION
+Bachelor of Engineering in Information Technology, Pune University, 2021
+
+SKILLS
+Python, Flask, MySQL, Git, Docker, HTML, CSS, JavaScript
