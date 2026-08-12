@@ -27,7 +27,7 @@ produces a **ranked, scored shortlist with reasoning** for each candidate.
 ---
 
 ## Project structure
-
+```
 resume-screening-agent/
 ├── main.py # CLI entry point
 ├── pipeline.py # orchestrates parse -> extract -> score -> rank -> save
@@ -40,6 +40,7 @@ resume-screening-agent/
 ├── output/ # generated ranked_candidates.csv / .json
 ├── requirements.txt
 └── SCORING_METHOD.md # deep-dive on the scoring formula
+```
 ---
 
 ## Setup
@@ -75,6 +76,7 @@ python main.py --no-llm
 ```
 
 ### Output
+```
 Ranked 13 candidates against JD.
 
 Rank Candidate Score Yrs Education
@@ -84,6 +86,7 @@ Rank Candidate Score Yrs Education
 ...
 Saved: output/ranked_candidates.json
 Saved: output/ranked_candidates.csv
+```
 ---
 
 ## Design choices
